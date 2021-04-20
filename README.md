@@ -29,7 +29,7 @@
   - [国外优秀技术站点](#国外优秀技术站点)
 
 
-# 计算机基础
+# :kangaroo:计算机基础
 ## 计算机理论基础
 ### 计算机网络
 - [计算机网络通关29讲（拉钩教育）](https://kaiwu.lagou.com/course/courseInfo.htm?sid=&courseId=837#/videoDetail?lessonId=7263)
