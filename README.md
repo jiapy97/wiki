@@ -31,3 +31,7 @@
 ## 计算机理论基础
 ### 计算机网络
 - [计算机网络通关29讲（拉钩教育）](https://kaiwu.lagou.com/course/courseInfo.htm?sid=&courseId=837#/videoDetail?lessonId=7263)
+
+# :maple_leaf:附录
+## 国内优秀技术人
+- [念念不忘，必有回响（西电校友，腾讯）](https://damonare.cn/)
