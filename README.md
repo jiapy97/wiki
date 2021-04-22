@@ -32,6 +32,9 @@
 ### 计算机网络
 - [计算机网络通关29讲（拉钩教育）](https://kaiwu.lagou.com/course/courseInfo.htm?sid=&courseId=837#/videoDetail?lessonId=7263)
 
+### 数据结构与算法
+- [前端算法与数据结构面试：底层逻辑解读与大厂真题训练](https://juejin.cn/book/6844733800300150797/section/6844733800283373575)
+
 # :maple_leaf:附录
 ## 国内优秀技术人
 - [念念不忘，必有回响（西电校友-腾讯）](https://damonare.cn/)
