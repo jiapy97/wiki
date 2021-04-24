@@ -36,7 +36,7 @@
 ### 数据结构与算法
 - [前端算法与数据结构面试：底层逻辑解读与大厂真题训练](https://juejin.cn/book/6844733800300150797/section/6844733800283373575)
 
-# :palm_tree:前端
+# :books: 前端
 ## 前端面试
 - [字节前端模拟题-综合知识点-据说会80%直接进字节](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblzZHf2Ix3YtxPM&view=vew9iquA45)
 # :maple_leaf:附录
