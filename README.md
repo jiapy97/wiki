@@ -46,3 +46,5 @@
 - [前端进阶积累-前端面试题-前端算法（掘金优秀作者）](http://obkoro1.com/web_accumulate/)
 - [codytang (唐泽雄-中山大学-腾讯IEG)](http://cody1991.github.io/aboutme/)
 - [CODELF作者的微博（内含字节招聘信息）](https://weibo.com/unbug?is_all=1#_rnd1619234812004)
+## 国外优秀技术站点
+- [CCodingNConcepts（内含JavaScript基础知识和博主关于面试的文章）](https://codingnconcepts.com/javascript/)
