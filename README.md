@@ -27,6 +27,7 @@
 - [附录](#附录)
   - [国内优秀技术人](#国内优秀技术人)
   - [国外优秀技术站点](#国外优秀技术站点)
+  - [优质Github仓库](优质Github仓库)
 
 # :four_leaf_clover:计算机基础
 ## 计算机理论基础
@@ -50,3 +51,5 @@
 - [CODELF作者的微博（内含字节招聘信息）](https://weibo.com/unbug?is_all=1#_rnd1619234812004)
 ## 国外优秀技术站点
 - [Coding N Concepts（内含JavaScript基础知识和博主关于面试的文章）](https://codingnconcepts.com/javascript/)
+## 优质Github仓库
+- [JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
