@@ -37,6 +37,7 @@
 ### 数据结构与算法
 - [前端算法与数据结构面试：底层逻辑解读与大厂真题训练](https://juejin.cn/book/6844733800300150797/section/6844733800283373575)
 - [LeetCode题解视频讲解（非常不错的UP主）](https://space.bilibili.com/363956974?spm_id_from=333.788.b_765f7570696e666f.2)
+- [猫打球CatRacket解题视频](https://space.bilibili.com/1553592118/)
 
 # :books: 前端
 ## 前端面试
