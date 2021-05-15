@@ -15,6 +15,7 @@
 - [前端](#前端)
     - [前端面试](#前端面试)
     - [前端发展](#前端发展)
+    - [前端优质视频](#前端优质视频)
         - [个人发展](#个人发展)
         - [行业发展](#行业发展)  
 - [职业](#职业)
@@ -43,6 +44,8 @@
 ## 前端面试
 - [字节前端模拟题-综合知识点-据说会80%直接进字节](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblzZHf2Ix3YtxPM&view=vew9iquA45)
 - [字节深圳飞书 校招/实习/社招 面试交流](https://bytedance.feishu.cn/docs/doccn5JoBkrcvJAxFi8s2EXePBe)
+## 前端优质视频
+[讲课非常易懂的UP主：哈默聊前端](https://space.bilibili.com/492976859)
 # :maple_leaf:附录
 ## 国内优秀技术人
 - [念念不忘，必有回响（西电校友-腾讯）](https://damonare.cn/)
