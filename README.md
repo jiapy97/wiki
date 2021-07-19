@@ -20,7 +20,6 @@
     - [前端优质视频](#前端优质视频)
 - [CSS](#CSS)
     - [flex布局](#flex布局)
-    - [CSS3-flex布局(flex布局的单个知识点忘记也可以复习)--黑马Pink](https://www.bilibili.com/video/BV1N54y1i7dG?from=search&seid=13451669300679066240)
 - [职业](#职业)
 	- [职业规划](#职业规划)
 	- [思维](#思维)
@@ -53,7 +52,7 @@
 # :cherries: CSS
 ## flex布局
 - [CSS3 flex布局实战](https://www.w3cschool.cn/codecamp/newList/css3flexbox)
-
+- [CSS3-flex布局--黑马Pink](https://www.bilibili.com/video/BV1N54y1i7dG?from=search&seid=13451669300679066240)
 # :maple_leaf:附录
 ## 国内优秀技术人
 - [念念不忘，必有回响（西电校友-腾讯）](https://damonare.cn/)
