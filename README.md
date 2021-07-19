@@ -20,6 +20,7 @@
     - [前端优质视频](#前端优质视频)
 - [CSS](#CSS)
     - [flex布局](#flex布局)
+    - [CSS3-flex布局(flex布局的单个知识点忘记也可以复习)--黑马Pink](https://www.bilibili.com/video/BV1N54y1i7dG?from=search&seid=13451669300679066240)
 - [职业](#职业)
 	- [职业规划](#职业规划)
 	- [思维](#思维)
