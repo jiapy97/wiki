@@ -62,6 +62,7 @@
 - [CODELF作者的微博（内含字节招聘信息）](https://weibo.com/unbug?is_all=1#_rnd1619234812004)
 - [Images' Blog(现为字节跳动Go后端开发,博客中有很不错的面试知识)](https://imageslr.com/)
 - [华科老表邹明远（现就职于字节跳动）](https://github.com/Mayandev)
+- [阿里-钉钉-子奕（前端面经和资料）](https://ziyi2.github.io/awesome/interviews.html#%E9%9D%A2%E7%BB%8F)
 ## 国外优秀技术站点
 - [Coding N Concepts（内含JavaScript基础知识和博主关于面试的文章）](https://codingnconcepts.com/javascript/)
 ## 优质Github仓库
