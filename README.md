@@ -19,6 +19,7 @@
         - [行业发展](#行业发展)  
     - [前端优质视频](#前端优质视频)
     - [前端框架](#前端框架)
+    	- [React](#React)
 - [CSS](#CSS)
     - [flex布局](#flex布局)
 - [职业](#职业)
@@ -51,7 +52,7 @@
 - [讲课非常易懂的UP主：哈默聊前端](https://space.bilibili.com/492976859)
 ## 前端框架
 ### React
--[张天禹2021React精讲（含Redux）](https://www.bilibili.com/video/BV1Ey4y1u7vi?p=94)
+- [张天禹2021React精讲（含Redux）](https://www.bilibili.com/video/BV1Ey4y1u7vi?p=94)
 
 # :cherries: CSS
 ## flex布局
