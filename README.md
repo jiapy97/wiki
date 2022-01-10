@@ -69,6 +69,7 @@
 - [华科老表邹明远（现就职于字节跳动）](https://github.com/Mayandev)
 - [阿里-钉钉-子奕（前端面经和资料）](https://ziyi2.github.io/awesome/interviews.html#%E9%9D%A2%E7%BB%8F)
 - [字节前端-刘小夕(前端周刊很不错)](https://github.com/YvetteLau/Step-By-Step)
+- [林三心的挖掘机（面试指导，学习的榜样）](https://juejin.cn/post/7035905352746926116)
 ## 国外优秀技术站点
 - [Coding N Concepts（内含JavaScript基础知识和博主关于面试的文章）](https://codingnconcepts.com/javascript/)
 ## 优质Github仓库
