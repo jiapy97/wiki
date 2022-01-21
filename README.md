@@ -39,6 +39,10 @@
 ### 计算机网络
 - [计算机网络通关29讲（拉钩教育）](https://kaiwu.lagou.com/course/courseInfo.htm?sid=&courseId=837#/videoDetail?lessonId=7263)
 
+## 计算机技术基础
+### 工具
+- [在线正则](https://regex101.com/)
+
 ### 数据结构与算法
 - [前端算法与数据结构面试：底层逻辑解读与大厂真题训练](https://juejin.cn/book/6844733800300150797/section/6844733800283373575)
 - [LeetCode题解视频讲解（非常不错的UP主）](https://space.bilibili.com/363956974?spm_id_from=333.788.b_765f7570696e666f.2)
