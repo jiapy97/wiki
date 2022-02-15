@@ -20,6 +20,7 @@
     - [前端优质视频](#前端优质视频)
     - [前端框架](#前端框架)
     	- [React](#React)
+    	- [Vue](#Vue)
 - [CSS](#CSS)
     - [flex布局](#flex布局)
 - [职业](#职业)
@@ -60,6 +61,9 @@
 ## 前端框架
 ### React
 - [张天禹2021React精讲（含Redux）](https://www.bilibili.com/video/BV1Ey4y1u7vi?p=94)
+
+### Vue
+- [黑马双向数据绑定原理](https://www.bilibili.com/video/BV1Dr4y1c7xS?p=11)
 
 # :cherries: CSS
 ## flex布局
