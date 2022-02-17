@@ -64,6 +64,7 @@
 
 ### Vue
 - [黑马双向数据绑定原理](https://www.bilibili.com/video/BV1Dr4y1c7xS?p=11)
+- [斌哥Vue](https://www.bilibili.com/video/BV1vp4y1179g)
 
 # :cherries: CSS
 ## flex布局
