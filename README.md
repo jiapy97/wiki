@@ -14,6 +14,7 @@
         - [技术](#技术)
 - [前端](#前端)
     - [前端面试](#前端面试)
+    - [必须搞懂的前端基础知识](#必须搞懂的前端基础知识)
     - [前端发展](#前端发展)
         - [个人发展](#个人发展)
         - [行业发展](#行业发展)  
@@ -56,6 +57,10 @@
 ## 前端面试
 - [字节前端模拟题-综合知识点-据说会80%直接进字节](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblzZHf2Ix3YtxPM&view=vew9iquA45)
 - [字节深圳飞书 校招/实习/社招 面试交流](https://bytedance.feishu.cn/docs/doccn5JoBkrcvJAxFi8s2EXePBe)
+
+## 必须搞懂的前端基础知识
+- [原型与原型链](https://juejin.cn/post/7068821827249766436)
+
 ## 前端优质视频
 - [讲课非常易懂的UP主：哈默聊前端](https://space.bilibili.com/492976859)
 ## 前端框架
