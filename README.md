@@ -60,6 +60,7 @@
 
 ## 必须搞懂的前端基础知识
 - [原型与原型链](https://juejin.cn/post/7068821827249766436)
+- [HTML5新特性](https://juejin.cn/post/7069183015619919879)
 
 ## 前端优质视频
 - [讲课非常易懂的UP主：哈默聊前端](https://space.bilibili.com/492976859)
