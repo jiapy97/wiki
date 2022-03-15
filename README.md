@@ -46,6 +46,7 @@
 - [在线正则](https://regex101.com/)
 - [视频下载](https://www.videofk.com/)
 - [在线latex工具](https://www.overleaf.com/)
+- [Windows镜像](https://msdn.sjjzm.com/win10.html)
 
 ### 数据结构与算法
 - [前端算法与数据结构面试：底层逻辑解读与大厂真题训练](https://juejin.cn/book/6844733800300150797/section/6844733800283373575)
