@@ -59,6 +59,8 @@
 - [字节前端模拟题-综合知识点-据说会80%直接进字节](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblzZHf2Ix3YtxPM&view=vew9iquA45)
 - [字节深圳飞书 校招/实习/社招 面试交流](https://bytedance.feishu.cn/docs/doccn5JoBkrcvJAxFi8s2EXePBe)
 - [阿里、力扣、政采云的15位专家分享前端面试与招聘视角](https://mp.weixin.qq.com/s/4mUPB3xKOkZbrOklPgViRw)
+- [2 年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）](https://mp.weixin.qq.com/s/n9PISnyHgULX4v6p-kquXw)
+- [2020年中大厂前端面试总结](https://mp.weixin.qq.com/s/uK6tSD-6d_ovg5Ak87HCCQ)
 
 
 ## 必须搞懂的前端基础知识
